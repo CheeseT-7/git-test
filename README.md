@@ -1,3 +1,3 @@
 #Readme
 This folder is used to learn git.
-& simple.
+and simple.
